@@ -1,0 +1,14 @@
+F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\obj\Debug\ClientReservasi-066.csproj.AssemblyReference.cache
+F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\obj\Debug\ClientReservasi_066.Form1.resources
+F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\obj\Debug\ClientReservasi_066.Properties.Resources.resources
+F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\obj\Debug\ClientReservasi-066.csproj.GenerateResource.cache
+F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\obj\Debug\ClientReservasi-066.csproj.CoreCompileInputs.cache
+F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\bin\Debug\ClientReservasi-066.exe.config
+F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\bin\Debug\ClientReservasi-066.exe
+F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\bin\Debug\ClientReservasi-066.pdb
+F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\bin\Debug\ServiceReservasi.dll
+F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\bin\Debug\ServiceReservasi.pdb
+F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\bin\Debug\ServiceReservasi.dll.config
+F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\obj\Debug\ClientReservasi-066.csproj.CopyComplete
+F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\obj\Debug\ClientReservasi-066.exe
+F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\obj\Debug\ClientReservasi-066.pdb

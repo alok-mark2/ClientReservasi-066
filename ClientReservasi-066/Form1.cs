@@ -46,10 +46,11 @@ namespace ClientReservasi_066
             string IdLokasi = textBoxIDLokasi.Text;
 
             var a = service.pemesanan(IDPemesanan, NamaCustomer, NoTelpon, JumlahPemesanan, IdLokasi);
-            MessageBox.Show(a);
+            MessageBox.Show((string)a);
             TampilData();
             Clear();
         }
+
 
         private void btUpdate_Click(object sender, EventArgs e)
         {
@@ -58,7 +59,7 @@ namespace ClientReservasi_066
             string NoTelpon = textBoxNoTlf.Text;
 
             var a = service.editPemesanan(IDPemesanan, NamaCustomer, NoTelpon);
-            MessageBox.Show(a);
+            MessageBox.Show((string)a);
             TampilData();
             Clear();
         }
@@ -67,15 +68,17 @@ namespace ClientReservasi_066
         {
             string IDPemesanan = textBoxID.Text;
             var a = service.deletePemesanan(IDPemesanan);
-            MessageBox.Show(a);
+            MessageBox.Show((string)a);
             TampilData();
             Clear();
         }
+
         public void TampilData()
         {
             var List = service.Pemesanan1();
             dtPemesanan.DataSource = List;
         }
+
         public void Clear()
         {
             textBoxID.Clear();
