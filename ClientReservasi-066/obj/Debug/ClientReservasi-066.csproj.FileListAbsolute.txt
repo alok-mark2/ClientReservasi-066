@@ -6,9 +6,5 @@ F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\obj\Debug\ClientReservasi-066
 F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\bin\Debug\ClientReservasi-066.exe.config
 F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\bin\Debug\ClientReservasi-066.exe
 F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\bin\Debug\ClientReservasi-066.pdb
-F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\bin\Debug\ServiceReservasi.dll
-F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\bin\Debug\ServiceReservasi.pdb
-F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\bin\Debug\ServiceReservasi.dll.config
-F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\obj\Debug\ClientReservasi-066.csproj.CopyComplete
 F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\obj\Debug\ClientReservasi-066.exe
 F:\JIRISAN\ClientReservasi-066\ClientReservasi-066\obj\Debug\ClientReservasi-066.pdb
